@@ -1,0 +1,2 @@
+2024-01-15 14:34:44,725 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-15 14:34:44,996 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 220 ms. Found 2 JPA repository interfaces.
